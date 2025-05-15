@@ -1,0 +1,5 @@
+Dataset Links
+- Train : https://www.kaggle.com/competitions/titanic/data?select=train.csv
+- Test : https://www.kaggle.com/competitions/titanic/data?select=test.csv
+
+Download train.csv and test.csv from dataset links and save it in data folder
